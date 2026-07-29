@@ -1,0 +1,33 @@
+# JMEM (Jmem Tek)
+
+> Upstream semiconductor company specializing in Application-Specific Integrated Circuit (ASIC) solutions for quantum-resilient cybersecurity. Products include JRoot, JPUF, JCrypt, JShield and Zanker (a PUF-based post-quantum cryptography chip), delivering NIST-aligned quantum-safe encryption and hardware-anchored identity authentication. Portfolio company of 500 Global. No public API or developer surface is published at this time.
+
+## Company
+- [Website](https://jmemtek.com)
+- [About Us](https://www.jmemtek.com/aboutus/)
+- [Milestones](https://www.jmemtek.com/milestone/)
+- [News](https://www.jmemtek.com/news/)
+- [Awards](https://www.jmemtek.com/awards/)
+- [Events](https://www.jmemtek.com/events/)
+- [White Papers](https://www.jmemtek.com/whitepaper/)
+- [LinkedIn](https://www.linkedin.com/company/jmemtek)
+
+## Products
+- [JRoot](https://www.jmemtek.com/jroot/)
+- [JPUF](https://www.jmemtek.com/jpuf/)
+- [JCrypt](https://www.jmemtek.com/jcrypt/)
+- [JShield](https://www.jmemtek.com/jshield/)
+- [Zanker](https://www.jmemtek.com/zanker/) — PUF-based post-quantum cryptography chip
+
+## Solutions
+- [Drone / UAV](https://www.jmemtek.com/drone/)
+- [Automotive](https://www.jmemtek.com/car/)
+- [Security & Control](https://www.jmemtek.com/securitycontrol/)
+- [Finance / Fintech](https://www.jmemtek.com/finance/)
+- [Silicon Intellectual Property](https://www.jmemtek.com/siliconintellectualproperty/)
+- [IC Chip Design](https://www.jmemtek.com/ic-chip-design/)
+
+## Legal
+- [Privacy Policy](https://www.jmemtek.com/privacy-policy/)
+- [Terms of Use](https://www.jmemtek.com/terms-of-use/)
+- [Cookie Policy](https://www.jmemtek.com/cookie-policy/)

@@ -1,7 +1,15 @@
 aid: jmem
 name: JMEM
-description: JMEM is a company surfaced as a portfolio company of 500-global and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: 'JMEM (Jmem Tek) is an upstream semiconductor company specializing in
+  Application-Specific Integrated Circuit (ASIC) solutions for quantum-resilient cybersecurity.
+  The company designs hardware security intellectual property and provides IC design
+  services, offering products such as JRoot, JPUF, JCrypt, and JShield, along with
+  Zanker, described as the world''s first PUF-based post-quantum cryptography (PQC)
+  chip. Its NIST-aligned, quantum-safe encryption and hardware-anchored identity authentication
+  protect chips against counterfeiting and unauthorized modification across UAV, automotive,
+  surveillance, and fintech applications. JMEM is a portfolio company of 500 Global,
+  added to the API Evangelist network and enriched from its public web presence; it
+  publishes no public API or developer surface at this time.'
 url: https://raw.githubusercontent.com/api-evangelist/jmem/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +17,30 @@ x-backed-by:
 - 500-global
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.jmemtek.com/wp-content/uploads/2025/08/JMEM_Logo_Logotype-01_0-1-e1752571035520.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Semiconductor
+- Cybersecurity
+- Post-Quantum Cryptography
+- Hardware Security
+- ASIC
+- PUF
+- Encryption
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +50,22 @@ maintainers:
 common:
 - type: Website
   url: https://jmemtek.com
+- type: Blog
+  url: https://www.jmemtek.com/news/
+- type: Whitepapers
+  url: https://www.jmemtek.com/whitepaper/
+- type: PrivacyPolicy
+  url: https://www.jmemtek.com/privacy-policy/
+- type: TermsOfService
+  url: https://www.jmemtek.com/terms-of-use/
+- type: LinkedIn
+  url: https://www.linkedin.com/company/jmemtek
+- type: DomainSecurity
+  url: security/jmem-domain-security.yml
+- type: LLMsTxt
+  url: llms/jmem-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
