@@ -11,6 +11,9 @@ description: 'JMEM (Jmem Tek) is an upstream semiconductor company specializing 
   added to the API Evangelist network and enriched from its public web presence; it
   publishes no public API or developer surface at this time.'
 url: https://raw.githubusercontent.com/api-evangelist/jmem/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "JMEM is a portfolio company of 500 Global, added to the API Evangelist network and enriched from its public web presence; it publishes no public API or developer surface at this time."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
